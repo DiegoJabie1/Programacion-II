@@ -74,6 +74,11 @@ namespace Clase_06_Entidades
             return index;
         }
 
+        public static int operator |(Paletas paleta, Temperas tempera)
+        {
+            return Array.IndexOf(paleta.colores, tempera);
+        }
+
         public static Paletas operator +(Paletas paleta, Temperas tempera)
         {
             if (paleta == tempera)
