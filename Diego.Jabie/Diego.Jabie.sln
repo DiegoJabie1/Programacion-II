@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_01", "Ejercicio_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_05_Entidades", "Clase_05_Entidades\Clase_05_Entidades.csproj", "{84BE8412-32ED-49D2-B275-7FC7B8CF8CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_06_Entidades", "Clase06_Entidades\Clase_06_Entidades.csproj", "{9B704D9B-8BC4-4F0B-96F6-71C14EA2DE4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase_06_Entidades", "Clase06_Entidades\Clase_06_Entidades.csproj", "{9B704D9B-8BC4-4F0B-96F6-71C14EA2DE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase_07", "WindowsFormsApp1\Clase_07.csproj", "{6C9391F3-70F1-49E9-8C40-6658BCC827E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9B704D9B-8BC4-4F0B-96F6-71C14EA2DE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B704D9B-8BC4-4F0B-96F6-71C14EA2DE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B704D9B-8BC4-4F0B-96F6-71C14EA2DE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9391F3-70F1-49E9-8C40-6658BCC827E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9391F3-70F1-49E9-8C40-6658BCC827E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9391F3-70F1-49E9-8C40-6658BCC827E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9391F3-70F1-49E9-8C40-6658BCC827E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
